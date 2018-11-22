@@ -7,3 +7,5 @@
 前端下载图片的两种方法：https://zhuanlan.zhihu.com/p/32426950
 #
 后台也可以下载图片:https://segmentfault.com/a/1190000010694215
+##
+拓展：截取页面想要的部分：http://caibaojian.com/h5-download.html
