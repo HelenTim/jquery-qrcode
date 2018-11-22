@@ -4,6 +4,6 @@
 自注：在结合https://www.jianshu.com/p/2487f7f8d2ff
 这里就可以下载图片
 #
-前端的两种方法：https://zhuanlan.zhihu.com/p/32426950
+前端下载图片的两种方法：https://zhuanlan.zhihu.com/p/32426950
 #
-过后台也是可以实现的:https://segmentfault.com/a/1190000010694215
+后台也可以下载图片:https://segmentfault.com/a/1190000010694215
